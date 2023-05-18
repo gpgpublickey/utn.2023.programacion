@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\EjercicioClase3\bin\Debug\net6.0\EjercicioClase3.exe
+C:\Users\dario\source\repos\EjercicioClase3\bin\Debug\net6.0\EjercicioClase3.deps.json
+C:\Users\dario\source\repos\EjercicioClase3\bin\Debug\net6.0\EjercicioClase3.runtimeconfig.json
+C:\Users\dario\source\repos\EjercicioClase3\bin\Debug\net6.0\EjercicioClase3.dll
+C:\Users\dario\source\repos\EjercicioClase3\bin\Debug\net6.0\EjercicioClase3.pdb
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.AssemblyInfo.cs
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.dll
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\refint\EjercicioClase3.dll
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.pdb
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\EjercicioClase3.genruntimeconfig.cache
+C:\Users\dario\source\repos\EjercicioClase3\obj\Debug\net6.0\ref\EjercicioClase3.dll
