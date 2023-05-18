@@ -13,6 +13,7 @@ public class Banco
     {
         this.Nombre = Name;
         this.Direccion = Direccion;
+        Clientes = new List<Cliente>();
     }
 
     public void AgregarCliente(Cliente clienteNuevo)
@@ -23,7 +24,7 @@ public class Banco
 
     public void EliminarCliente(Cliente clienteEliminar)
     {
-
+        Clientes.Remove(Clientes.Find(o => o.Nombre == clienteEliminar.Nombre));
         CantClientes--;
     }
 

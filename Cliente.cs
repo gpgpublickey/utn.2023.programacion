@@ -4,10 +4,15 @@ Banco con nombre direcc y can clientes. Agregar y eliminar clientes, transaccion
 */
 public class Cliente
 {
-    private string Nombre{get;set;}
+    public string Nombre
+    {
+        get { return Nombre; }
+        set { Nombre = value; }
+    }
     private string Direccion{get;set;}
     private string Email{get;set;}
 
+    
 
     public Cliente(string Name, string Direccion, string Email)
     {
@@ -17,13 +22,5 @@ public class Cliente
 
     }
 
-    public void AgregarCliente()
-    {
-        
-    }
 
-    public void EliminarCliente()
-    {
-
-    }
 }
