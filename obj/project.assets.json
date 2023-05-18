@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rhona\\Documents\\UTN\\Programacion V\\RepoForkTareas\\utn.2023.programacion\\utn.2023.programacion.csproj",
+      "projectUniqueName": "C:\\Users\\Rhona\\Documents\\UTN\\V Cuatrimestre\\Programacion V\\RepoForkTareas\\utn.2023.programacion\\utn.2023.programacion.csproj",
       "projectName": "utn.2023.programacion",
-      "projectPath": "C:\\Users\\Rhona\\Documents\\UTN\\Programacion V\\RepoForkTareas\\utn.2023.programacion\\utn.2023.programacion.csproj",
+      "projectPath": "C:\\Users\\Rhona\\Documents\\UTN\\V Cuatrimestre\\Programacion V\\RepoForkTareas\\utn.2023.programacion\\utn.2023.programacion.csproj",
       "packagesPath": "C:\\Users\\Rhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rhona\\Documents\\UTN\\Programacion V\\RepoForkTareas\\utn.2023.programacion\\obj\\",
+      "outputPath": "C:\\Users\\Rhona\\Documents\\UTN\\V Cuatrimestre\\Programacion V\\RepoForkTareas\\utn.2023.programacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
