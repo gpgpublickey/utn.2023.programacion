@@ -1,13 +1,10 @@
-﻿
-
-namespace ConsoleApp1
+﻿namespace ConsoleApp1
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Music song = new Music(new Artist("JLO", "Jennifer", "Lopez"), "JLO", "HIP-HOP", 500);
-            
+            Console.WriteLine("Hello, World!");
         }
     }
 }
