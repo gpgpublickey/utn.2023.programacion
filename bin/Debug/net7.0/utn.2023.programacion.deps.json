@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "utn.2023.programacion/1.0.0": {
+        "runtime": {
+          "utn.2023.programacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "utn.2023.programacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
