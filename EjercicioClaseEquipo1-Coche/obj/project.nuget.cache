@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qJjux/17+Djnd3U4iYjhVGx0aAKDjz3io60ubf3wfog2vMOBVEYPVl8UGdC5YRkgiAVUefDfTn2j8RVE9I3Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dario\\source\\repos\\EjercicioClase3\\EjercicioClase3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dario\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
