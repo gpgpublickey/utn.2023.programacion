@@ -198,7 +198,10 @@ PublishScripts/
 # NuGet v3's project.json files produces more ignorable files
 *.nuget.props
 *.nuget.targets
-
+*.nuget.g.props
+*.nuget.g.targets
+*.nuget.dgspec.json
+*.nuget.cache	
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
@@ -351,5 +354,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+bin/
+obj/
+packages/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#vs
