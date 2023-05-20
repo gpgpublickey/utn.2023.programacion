@@ -545,12 +545,12 @@ FodyWeavers.xsd
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-.vs 
-.vs/slnx.sqlite
-.vs/utn.2023.programacion/v17/.wsuo
-ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/read.lock
-ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/aa3e8bea-6907-42cb-86f6-718f05b3a6c0.vsidx
-ConsoleApp1/obj
+/.vs 
+/.vs/slnx.sqlite
+/.vs/utn.2023.programacion/v17/.wsuo
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/read.lock
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/aa3e8bea-6907-42cb-86f6-718f05b3a6c0.vsidx
+/ConsoleApp1/obj
 
 # Local History for Visual Studio Code
 .history/
