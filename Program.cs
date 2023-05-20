@@ -4,11 +4,7 @@
   {
     static void Main(string[] args)
     {
-      Libro libro = new Libro();
-      libro.Autor = "Cosme Fulanito";
-      libro.Titulo = "Yo soy Cosme Fulanito";
-      libro.Editorial = "Planeta";
-      libro.ISBN = "1234567890";
+      Libro libro = new Libro("Yo soy Cosme Fulanito", "Cosme Fulanito", "Planeta", "1234567890");
       libro.ImprimirInformacion();
     }
   }
