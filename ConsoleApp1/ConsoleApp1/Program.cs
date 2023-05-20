@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Music song = new Music(new Artist("JLO", "Jennifer", "Lopez"), "JLO", "HIP-HOP", 500);
         }
     }
 }
