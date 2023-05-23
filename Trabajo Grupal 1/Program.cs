@@ -4,32 +4,23 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        //Perros.
-        Especie perro = new Especie("Perro");
-        //Gatos.
-        Especie gato = new Especie("Gato");
-
         //Perro Loli.
-        Mascota Mascota1 = new Mascota();
-        Mascota1.DarNombre("Loli");
-        Mascota1.DarEdad(5);
-        Mascota1.DarEspecie(perro);
+        Perro perro1 = new Perro();
+        perro1.DarNombre("Loli");
+        perro1.DarEdad(5);
 
         //Gata Sanah.
-        Mascota Mascota2 = new Mascota();
-        Mascota2.DarNombre("Sanah");
-        Mascota2.DarEdad(3);
-        Mascota2.DarEspecie(gato);
+        Gato gata1 = new Gato();
+        gata1.DarNombre("Sanah");
+        gata1.DarEdad(3);
 
         //Llamar métodos.
-        Mascota1.HacerSonido();
-        Mascota1.Moverse();
+        perro1.HacerSonido();
+        perro1.Moverse();
 
-        Mascota2.HacerSonido();
-        Mascota2.Moverse();
-
+        gata1.HacerSonido();
+        gata1.Moverse();
 
         Console.ReadLine();
-
     }
 }

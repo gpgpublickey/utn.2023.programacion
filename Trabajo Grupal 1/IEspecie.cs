@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Trabajo_Grupal_1
 {
-    internal class Especie
+    internal interface IEspecie
     {
-        public string Nombre { get; set; }
+        public void HacerSonido();
 
-        public Especie(string nombre) 
-        {
-            Nombre = nombre;
-        }
+        public void Moverse();
 
     }
 }

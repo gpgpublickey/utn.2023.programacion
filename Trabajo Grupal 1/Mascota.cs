@@ -10,10 +10,8 @@ namespace Trabajo_Grupal_1
 {
     internal class Mascota
     {
-        public string Nombre { get; set; }
-        public int Edad { get; set; }
-        public Especie Especie { get; set; }
-
+        private string Nombre;
+        private int Edad;
         public string ObtenerNombre()
         {
             return this.Nombre;
@@ -23,12 +21,6 @@ namespace Trabajo_Grupal_1
         {
             return this.Edad;
         }
-
-        public Especie ObtenerEspecie()
-        {
-            return this.Especie;
-        }
-
 
         public void DarNombre(string nombre)
         {
@@ -40,28 +32,5 @@ namespace Trabajo_Grupal_1
         {
             this.Edad = edad;
         }
-
-        public void DarEspecie(Especie especie)
-        {
-            this.Especie = especie;
-        }
-
-        public void HacerSonido()
-        {
-            if (this.Especie.Nombre == "Gato")
-            {
-                Console.WriteLine("Miauuu");
-            }
-            else
-                Console.WriteLine("Guauuu");
-        }
-
-        public void Moverse()
-        {
-            Console.WriteLine(this.Nombre + " se mueve.");
-        }
-
-
-
     }
 }
