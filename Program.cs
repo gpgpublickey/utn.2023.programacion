@@ -4,8 +4,12 @@
   {
     static void Main(string[] args)
     {
-      Libro libro = new Libro("Yo soy Cosme Fulanito", "Cosme Fulanito", "Planeta", "1234567890");
-      libro.ImprimirInformacion();
+      Console.WriteLine("~Primer libro~");
+      Libro libroFisico = new LibroFisico("Yo soy Cosme Fulanito", "Cosme Fulanito", "Planeta", "1234567890", 345, 25.3);
+      libroFisico.ImprimirInformacion();
+      Console.WriteLine("\n~Segundo libro~");
+      LibroElectronico libroElectronico = new LibroElectronico("Cosme Fulanito, el regreso", "Cosme Fulanito", "Planeta", "1234876797", 400, 4, "PDF");
+      libroElectronico.ImprimirInformacion();
     }
   }
 }

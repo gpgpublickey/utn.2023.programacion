@@ -6,25 +6,31 @@ using System.Threading.Tasks;
 
 namespace utn._2023.programacion
 {
-  public class Libro
+  public abstract class Libro : Informable
   {
-    public Libro(string Titulo, string Autor, string Editorial, string ISBN)
+    
+    private string Titulo { get; set; }
+    private string Autor { get; set; }
+    private string Editorial { get; set; }
+    private string ISBN { get; set; }
+    private short CantidadPaginas { get; set; }
+
+    public Libro(string Titulo, string Autor, string Editorial, string ISBN, short CantidadPaginas)
     {
       this.Titulo = Titulo;
       this.Autor = Autor;
       this.Editorial = Editorial;
       this.ISBN = ISBN;
+      this.CantidadPaginas = CantidadPaginas;
     }
-    private string Titulo { get; set; }
-    private string Autor { get; set; }
-    private string Editorial { get; set; }
-    private string ISBN { get; set; }
 
-    public void ImprimirInformacion() {
+    public virtual void ImprimirInformacion()
+    {
       Console.WriteLine("Título: " + this.Titulo);
       Console.WriteLine("Autor: " + this.Autor);
       Console.WriteLine("Editorial: " + this.Editorial);
       Console.WriteLine("ISBN: " + this.ISBN);
+      Console.WriteLine("Cant. de páginas: " + this.CantidadPaginas);
     }
   }
 }
