@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\bin\Debug\net7.0\NewConsoleApp.exe
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\bin\Debug\net7.0\NewConsoleApp.deps.json
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\bin\Debug\net7.0\NewConsoleApp.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\bin\Debug\net7.0\NewConsoleApp.dll
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\bin\Debug\net7.0\NewConsoleApp.pdb
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.dll
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\refint\NewConsoleApp.dll
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.pdb
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\NewConsoleApp.genruntimeconfig.cache
+C:\Users\Lucas\Documents\GitHub\utn.2023.programacion\NewConsoleApp\obj\Debug\net7.0\ref\NewConsoleApp.dll
