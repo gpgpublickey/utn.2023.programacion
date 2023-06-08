@@ -1,5 +1,6 @@
 /*Crea un avion, Modelo Capacidad Velocidad maxima Metodos para despegar y aterrizar y volar en dif altitudes*/
 /*Crea un avion, Modelo Capacidad Velocidad maxima Metodos para despegar y aterrizar y volar en dif altitudes*/
+namespace utn._2023.programacion;
 public class Avion
 {
     private string Modelo;

@@ -1,5 +1,5 @@
 using System;
-namespace Tasks;
+namespace utn._2023.programacion;
 
 internal class Juego
 {

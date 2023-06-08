@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tasks
+namespace utn._2023.programacion
 {
 
 	public class Client
