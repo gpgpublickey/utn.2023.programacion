@@ -1,0 +1,15 @@
+C:\Users\dnunez\source\repos\Promedios\Promedios\bin\Debug\net6.0\Promedios.exe
+C:\Users\dnunez\source\repos\Promedios\Promedios\bin\Debug\net6.0\Promedios.deps.json
+C:\Users\dnunez\source\repos\Promedios\Promedios\bin\Debug\net6.0\Promedios.runtimeconfig.json
+C:\Users\dnunez\source\repos\Promedios\Promedios\bin\Debug\net6.0\Promedios.dll
+C:\Users\dnunez\source\repos\Promedios\Promedios\bin\Debug\net6.0\Promedios.pdb
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.csproj.AssemblyReference.cache
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.AssemblyInfoInputs.cache
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.AssemblyInfo.cs
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.csproj.CoreCompileInputs.cache
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.dll
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\refint\Promedios.dll
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.pdb
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\Promedios.genruntimeconfig.cache
+C:\Users\dnunez\source\repos\Promedios\Promedios\obj\Debug\net6.0\ref\Promedios.dll

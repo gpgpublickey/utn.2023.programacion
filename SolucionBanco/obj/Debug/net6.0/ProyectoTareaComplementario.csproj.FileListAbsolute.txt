@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.AssemblyInfo.cs
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\ProyectoTareaComplementario\bin\Debug\net6.0\ProyectoTareaComplementario.exe
+C:\Users\dario\source\repos\ProyectoTareaComplementario\bin\Debug\net6.0\ProyectoTareaComplementario.deps.json
+C:\Users\dario\source\repos\ProyectoTareaComplementario\bin\Debug\net6.0\ProyectoTareaComplementario.runtimeconfig.json
+C:\Users\dario\source\repos\ProyectoTareaComplementario\bin\Debug\net6.0\ProyectoTareaComplementario.dll
+C:\Users\dario\source\repos\ProyectoTareaComplementario\bin\Debug\net6.0\ProyectoTareaComplementario.pdb
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.dll
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\refint\ProyectoTareaComplementario.dll
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.pdb
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ProyectoTareaComplementario.genruntimeconfig.cache
+C:\Users\dario\source\repos\ProyectoTareaComplementario\obj\Debug\net6.0\ref\ProyectoTareaComplementario.dll
