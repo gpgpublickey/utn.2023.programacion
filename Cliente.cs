@@ -11,6 +11,7 @@ public class Cliente
     }
     private string Direccion{get;set;}
     private string Email{get;set;}
+    private float Saldo{get;set;}
 
     
 
@@ -19,6 +20,8 @@ public class Cliente
         this.Nombre = Name;
         this.Direccion = Direccion;
         this.Email = Email;
+        this.Saldo = 0;
+        
 
     }
 

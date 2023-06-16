@@ -24,8 +24,10 @@ public class Banco
 
     public void EliminarCliente(Cliente clienteEliminar)
     {
-        Clientes.Remove(Clientes.Find(o => o.Nombre == clienteEliminar.Nombre));
+        Clientes.Remove(clienteEliminar);
         CantClientes--;
     }
+
+
 
 }

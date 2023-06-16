@@ -1,7 +1,8 @@
 public class TransaccionesBancarias 
 {
-    private Banco banco;
-    private Cliente cliente;
-    private float Monto;
+    private Banco banco{get;set;}
+    private Cliente cliente{get;set;}
+
+
 
 }

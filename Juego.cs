@@ -9,7 +9,6 @@ internal class Juego
     public string Categoria { get; set; }
     public double Precio { get; set; }
 
-    public Juego() { }
     public Juego(string name, string description, string categoria, double precio)
     {
         Name = name;
